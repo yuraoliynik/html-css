@@ -1,0 +1,65 @@
+.button {
+    padding: 14px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 100px;
+    border: 1px solid #000000;
+    cursor: pointer;
+    transition: text-shadow 300ms, box-shadow 300ms, opacity 300ms, border 300ms;
+    opacity: 1;
+}
+
+.button__theme_white {
+    color: #000000;
+    background: #ffffff;
+}
+
+.button__theme_black {
+    border: 1px solid silver;
+    color: #ffffff;
+    background: #000000;
+
+}
+
+.button__theme_pink {
+    border: 1px solid #F7B2B7;
+    /*border: 1px solid silver;*/
+    color: #000000;
+    background: #F7B2B7;
+}
+
+
+.button__theme_white:hover {
+    border: 1px solid white;
+    text-shadow: 0 0 1px #333, 0 0 1px #333;
+    box-shadow:  0 0 2px #333, 0 4px 4px #333;
+}
+
+.button__theme_black:hover {
+    text-shadow: 0 0 1px #ffffff, 0 0 1px whitesmoke;
+    box-shadow:  0 2px 2px silver, 0 4px 4px #333;
+}
+
+.button__theme_pink:hover {
+    /*border: 1px solid #F7B2B7;*/
+    text-shadow: 0 0 1px #333, 0 0 1px #333;
+    box-shadow:  0 0 2px #333, 0 4px 4px #333;
+}
+
+.button__theme_white:active, .button__theme_pink:active {
+    border: 1px solid dimgray;
+    text-shadow: unset;
+    box-shadow:  0 0 2px whitesmoke, 0 0 4px #333;
+    opacity: 0.9;
+    transition: unset;
+}
+
+.button__theme_black:active {
+    border: 1px solid silver;
+    text-shadow: unset;
+    box-shadow:  0 0 2px whitesmoke, 0 0 4px #000000;
+    opacity: 0.9;
+    transition: unset;
+}
+
+

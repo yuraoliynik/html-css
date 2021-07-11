@@ -1,0 +1,39 @@
+.top-header {
+    padding-top: 27px;
+    height: 111px;
+}
+
+.top-header__wrap {
+    grid-column-gap: 93px;
+}
+
+.top-header__menu {
+    grid-column-gap: 27px;
+    min-width: 849px;
+}
+
+.top-header_buttons {
+    grid-column-gap: 18px;
+}
+
+.main-nav {
+    grid-column-gap: 22px;
+}
+
+.main-nav__item a {
+    font-size: 18px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: normal;
+    transition: text-shadow 300ms;
+}
+
+.main-nav__item a:hover {
+    text-shadow: 0 0 1px #333, 0 0 1px #333;
+}
+
+.main-nav__item a:active {
+    transition: unset;
+    text-shadow: unset;
+}

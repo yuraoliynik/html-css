@@ -1,0 +1,37 @@
+.screen-4 {
+    background-color: #FDECED;
+    height: 705px;
+    padding-top: 88px;
+}
+
+.screen-4__h-top {
+    font-size: 58px;
+    font-weight: normal;
+    line-height: 58px;
+    width: 557px;
+    margin-bottom: 82px;
+}
+
+.screen-4__wrap {
+    grid-column-gap: 54px;
+}
+
+.screen-4__column {
+    width: 309px;
+}
+
+.screen-4__img {
+    margin-bottom: 24px;
+}
+
+.screen-4__h {
+    font-size: 28px;
+    line-height: 36px;
+    margin-bottom: 10px;
+}
+
+.screen-4__p {
+    font-size: 18px;
+    line-height: 24px;
+    width: 304px;
+}

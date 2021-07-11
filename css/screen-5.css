@@ -1,0 +1,32 @@
+.screen-5 {
+    height: 522px;
+    padding-top: 108px;
+}
+
+.screen-5__wrap {
+    grid-column-gap: 116px;
+}
+
+.screen-5__left {
+    padding-top: 21px;
+    width: 236px;
+}
+
+.screen-5__left-h {
+    font-size: 27px;
+    line-height: 36px;
+    font-weight: normal;
+}
+
+.screen-5__right {
+    width: 700px;
+    float: left;
+}
+
+.screen-5__right_img {
+    width: 200px;
+    height: 84px;
+    float: left;
+    margin-right: 33px;
+    margin-bottom: 36px;
+}

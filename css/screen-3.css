@@ -1,0 +1,53 @@
+.screen-3 {
+    height: 791px;
+    padding-top: 88px;
+}
+
+.screen-3__h-top {
+    font-size: 58px;
+    line-height: 58px;
+    margin-bottom: 82px;
+}
+
+.screen-3__wrap {
+    grid-column-gap: 54px;
+    margin-bottom: 54px;
+}
+
+.screen-3__column {
+    width: 309px;
+}
+
+.screen-3__img {
+    margin-bottom: 24px;
+}
+
+.screen-3__h {
+    font-size: 28px;
+    line-height: 36px;
+    margin-bottom: 10px;
+}
+
+.screen-3__p {
+    font-size: 18px;
+    line-height: 24px;
+    width: 295px;
+}
+
+.screen-3__p a {
+    color: cornflowerblue;
+    transition: color 300ms;
+}
+
+.screen-3__p a:hover {
+    color: darkviolet;
+}
+
+.screen-3__p a:visited {
+    color: darkblue;
+}
+
+.screen-3__button {
+    padding-left: 33px;
+    padding-right: 33px;
+}

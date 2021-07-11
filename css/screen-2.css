@@ -1,0 +1,32 @@
+.screen-2__wrap {
+    grid-column-gap: 104px;
+    height: 711px;
+}
+
+.screen-2__right {
+    width: 515px;
+}
+
+.screen-2__right-h {
+    font-size: 57px;
+    line-height: 58px;
+    margin-bottom: 33px;
+}
+
+.screen-2__right-p {
+    font-size: 20px;
+    line-height: 31px;
+}
+
+.screen-2__right-p a {
+    color: cornflowerblue;
+    transition: color 300ms;
+}
+
+.screen-2__right-p a:hover {
+    color: darkviolet;
+}
+
+.screen-2__right-p a:visited {
+    color: darkblue;
+}

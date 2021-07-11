@@ -1,0 +1,44 @@
+.screen-1 {
+    border-bottom: 1px solid #EAEEF2;
+    height: 501px;
+}
+
+.screen-1__wrap {
+    grid-column-gap: 48px;
+    width: 1221px;
+}
+
+.screen-1__left{
+    padding-top: 59px;
+    width: 506px;
+}
+
+.screen-1__left-h {
+    font-size: 77px;
+    line-height: 83px;
+    margin-bottom: 27px;
+}
+
+.screen-1__left-p {
+    font-size: 20px;
+    line-height: 31px;
+}
+
+.screen-1__bottom {
+    width: 235px;
+    position: absolute;
+    top: 534px;
+}
+
+.screen-1__bottom-p {
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: bold;
+    margin-bottom: 27px;
+}
+
+.screen-1__button {
+    padding-left: 31px;
+    padding-right: 31px;
+    font-size: 22px;
+}

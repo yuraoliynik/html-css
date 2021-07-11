@@ -1,0 +1,30 @@
+.screen-6 {
+    height: 637px;
+    padding-top: 108px;
+}
+
+.screen-6__wrap {
+    grid-column-gap: 104px;
+}
+
+.screen-6__left {
+    width: 564px;
+}
+
+.screen-6__left-h {
+    font-size: 58px;
+    line-height: 58px;
+    margin-bottom: 40px;
+}
+
+.screen-6__left-p {
+    font-size: 20px;
+    line-height: 31px;
+    width: 547px;
+    margin-bottom: 79px;
+}
+
+.screen-6__button {
+    padding-left: 31px;
+    padding-right: 31px;
+}

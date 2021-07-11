@@ -1,0 +1,32 @@
+.screen-7 {
+    height: 499px;
+    padding-top: 108px;
+}
+
+.screen-7__wrap {
+    padding-left: 90px;
+    width: 1150px;
+    height: 283px;
+    border-radius: 10px;
+    background: #8BD4D6;
+}
+
+.screen-7__left {
+    width: 811px;
+}
+
+.screen-7__left-h {
+    font-size: 46px;
+    line-height: 56px;
+    margin-bottom: 18px;
+}
+
+.screen-7__left-p {
+    font-size: 20px;
+    line-height: 31px;
+}
+
+.screen-7__button {
+    padding-left: 31px;
+    padding-right: 31px;
+}
